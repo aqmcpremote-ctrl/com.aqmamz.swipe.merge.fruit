@@ -2,18 +2,32 @@
   "apps": [
  
     {
-          "name": "Puppy Sort",
+      "name": "Puppy Sort",
       "packageName": "com.aqmamz.puppy.sort.match.puzzle",
       "targetAsin": "B0HPFF8K4J",
       "storeUrl": "https://www.amazon.com/Puppy-Sort-Match-3-Puzzle/dp/B0HPFF8K4J",
-      "rewardedVideoURL": "https://res.cloudinary.com/dwyxiogqe/video/upload/v1794549290/Puppy_sort_V2.mp4"
+      "rewardedVideoURL": "https://res.cloudinary.com/krkl30yw/video/upload/v1794827078/Puppy_sort_V4.mp4"
+    }, 
+     {
+      "name": "Football",
+      "packageName": "com.aqmamz.football.soccer.match",
+      "targetAsin": "B0HN257HRX",
+      "storeUrl": "https://www.amazon.com/Football-Game-Soccer-Match-Simulator/dp/B0HN257HRX",
+      "rewardedVideoURL": "https://res.cloudinary.com/krkl30yw/video/upload/v1794826233/V1.mp4"
     }, 
     {
       "name": "Puppy Sort",
       "packageName": "com.aqmamz.puppy.sort.match.puzzle",
       "targetAsin": "B0HPFF8K4J",
       "storeUrl": "https://www.amazon.com/Puppy-Sort-Match-3-Puzzle/dp/B0HPFF8K4J",
-      "rewardedVideoURL": "https://res.cloudinary.com/dwyxiogqe/video/upload/v1794549290/Puppy_sort_V2.mp4"
+      "rewardedVideoURL": "https://res.cloudinary.com/krkl30yw/video/upload/v1794827081/Puppy_sort_V2.mp4"
+    }, 
+     {
+      "name": "Football",
+      "packageName": "com.aqmamz.football.soccer.match",
+      "targetAsin": "B0HN257HRX",
+      "storeUrl": "https://www.amazon.com/Football-Game-Soccer-Match-Simulator/dp/B0HN257HRX",
+      "rewardedVideoURL": "https://res.cloudinary.com/krkl30yw/video/upload/v1794827011/V2.mp4"
     }
     
   ]
